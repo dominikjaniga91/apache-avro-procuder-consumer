@@ -1,6 +1,6 @@
 {
      "type": "record",
-     "namespace": "com.example",
+     "namespace": "com.epam",
      "name": "Customer",
      "version": "1",
      "fields": [
